@@ -109,7 +109,7 @@ export default function App() {
               style={{
                 listStyle: "none",
                 padding: "0.8rem",
-                width: "80%",
+                width: "90%",
                 background: "#EAFFFD",
                 margin: "1rem auto",
                 border: "2px solid black",
