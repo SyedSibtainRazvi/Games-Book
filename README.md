@@ -9,7 +9,7 @@ This is an amazing **Game Book** application that I have build. It has a **Array
 3) Code SandBox.
 
 #### What Next?
-Add API for the emojis instead of the predefined Emoji Dictionary
+Add API for the list of games and URL's.
 
 #### How to contribute?
 
